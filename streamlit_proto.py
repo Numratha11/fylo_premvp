@@ -4,7 +4,7 @@ from steamship.utils.url import Verb
 import streamlit as st
 
 
-st.title("Fylo Health - Pre-MVP Prototype")
+st.title("Fylo Health: Pre-MVP Prototype")
 
 client = Steamship(workspace = "julie-workspace")
 
